@@ -16,4 +16,4 @@ Your server must be multithreaded and employ port switching.
 
 # Technologies / Software
 
-Java
+Java, JavaFX, CSS
