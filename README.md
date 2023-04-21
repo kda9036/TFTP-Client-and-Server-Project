@@ -14,6 +14,12 @@ The client and server communicate via UDP. The server is multi-threaded, meaning
 
 Your server must be multithreaded and employ port switching.
 
+# Summary
+- Coded a client and server in Java with two other group members that utilized the Trivial File Transfer Protocol (TFTP) to communicate with each other via User Datagram Protocol (UDP) to upload and download files
+- Employed multi-threading and port switching in server creation
+- Packet classes were generated using object-oriented principles, like inheritance, for building and dissecting datagrams
+- Extensive testing was performed for error handling and to ensure interoperability with other clients and servers
+
 # Technologies / Software
 
 Java, JavaFX, CSS
