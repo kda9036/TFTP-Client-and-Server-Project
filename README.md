@@ -4,6 +4,8 @@ RIT Spring 2021
 
 Course: Computational Problem Solving in the Information Domain II
 
+See ProjectDemo > view raw for video demo of project
+
 # Project Description
 
 Group term project. Group of 3.
